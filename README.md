@@ -73,14 +73,6 @@ Real-time enemy & boss synchronization addon for **Hollow Knight: Silksong Multi
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Brothergaming52&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
 ---
 
 ## 💰 Support My Work
