@@ -67,11 +67,9 @@ Real-time enemy & boss synchronization addon for **Hollow Knight: Silksong Multi
 
 <div align="center">
 
-![Brothergaming52's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brothergaming52&show_icons=true&theme=dark&hide_border=false&count_private=true)
+![Brothergaming52's GitHub stats](https://github-readme-stats.shion.dev/api?username=Brothergaming52&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Brothergaming52&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brothergaming52&layout=compact&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Brothergaming52&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -79,7 +77,7 @@ Real-time enemy & boss synchronization addon for **Hollow Knight: Silksong Multi
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Brothergaming52&theme=radical&no-frame=true&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=Brothergaming52&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
